@@ -6,7 +6,7 @@
 * Then I copied the whole **master-gatsby** into this one and stripped it from all the pizza stuff.
 
 #### Todo:
-* improve the Layout
+* improve the Layout, Logo, Contacts, ...
 * copy it into **gatsby-ts-starter**
 * strip the animations
 * save it as the **gatsby-ts-starter** project
